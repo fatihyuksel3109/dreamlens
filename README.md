@@ -50,7 +50,7 @@ DreamLens is a React Native application that allows users to submit their dreams
 ## Installation & Setup
 ### **1. Clone the Repository**
 ```sh
- git clone https://github.com/yourusername/dreamlens.git
+ git clone https://github.com/fatihyuksel3109/dreamlens.git
  cd dreamlens
 ```
 
